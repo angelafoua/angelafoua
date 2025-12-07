@@ -42,14 +42,14 @@ A few ideas that guide me:
 
 ---
 
-## 🧠 What Drives Me (in code form)
+## 🧠 Introduction
 
 ```python
 class DataEngineer:
     def __init__(self):
         self.name = "Lou Foua"
         self.focus = ["Data", "Cloud", "Scalability", "Simplicity (Monad Mindset)"]
-        self.motto = (
+        self.rule = (
             "Turn raw data into reliable, usable knowledge through simple, composable systems."
         )
 
